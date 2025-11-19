@@ -2,7 +2,7 @@
 
 [project]
 name = "shared-core"
-version = "0.1.4"
+version = "0.1.0"
 dependencies = [
     "loguru==0.7.2",
     "orjson==3.10.18",
