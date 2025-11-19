@@ -8,7 +8,7 @@ dependencies = [
     "loguru==0.7.2",
     "orjson==3.10.18",
     "tomli==2.0.1",
-    "shared-config @ git+https://github.com/venoajie/shared-config.git@v0.1.2"
+    "shared-config @ git+https://github.com/venoajie/shared-config.git@v0.1.3"
 
 ]
 
