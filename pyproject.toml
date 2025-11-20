@@ -6,7 +6,9 @@ version = "0.1.0"
 dependencies = [
     "loguru==0.7.2",
     "orjson==3.10.18",
-    "tomli==2.0.1",
+    "tomli==2.0.1",  
+    "psutil>=5.9.0",
+    "shared-db-clients @ git+https://github.com/venoajie/shared-db-clients.git@v0.1.0"
 ]
 
 [build-system]
